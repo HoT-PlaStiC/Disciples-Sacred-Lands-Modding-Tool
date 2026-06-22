@@ -25,21 +25,21 @@ enter
 
 
 	1., list units:
-	type: python fd_portrait_codec_v2_5.py list UNIT.DBI IMGGRAB.BIN
+	type: python fd_portrait_codec_v2_6.py list UNIT.DBI IMGGRAB.BIN
 
 
 	2., decode unit portraits:
-	type: python fd_portrait_codec_v2_5.py decode UNIT.DBI portrék\ IMGGRAB.BIN
+	type: python fd_portrait_codec_v2_6.py decode UNIT.DBI portrék\ IMGGRAB.BIN
 
 	(you can change the folder name (portrék\) also you can change UNIT.DBI
 	to UNIT_mod.DBI if you would like to decode the encoded images)
 
 
 	3., encode images:
-	type: python fd_portrait_codec_v2_5.py encode CFDW0048.png UNIT.DBI FD026S00 IMGGRAB.BIN
+	type: python fd_portrait_codec_v2_6.py encode CFDW0048.png UNIT.DBI FD026S00 IMGGRAB.BIN
 
 	(you can write your custom images here (CFDW0048.png is a sample image)
-	Images should be 55x67 or 115x67 scaled)
+	Images should be 55x67 or 115x67 scaled and in PNG format)
 	(you can choose which original portrait you would like to replace (FD026S00 for example)
 
 	After you encode, the script will generate an UNIT_mod.DBI file, which you can copy
