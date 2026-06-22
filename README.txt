@@ -41,6 +41,7 @@ enter
 	(you can write your custom images here (CFDW0048.png is a sample image)
 	Images should be 55x67 or 115x67 scaled and in PNG format)
 	(you can choose which original portrait you would like to replace (FD026S00 for example)
+	(you can choose to encode into UNIT_mod.DBI, this way UNIT_mod_mod.DBI will generated)
 
 	After you encode, the script will generate an UNIT_mod.DBI file, which you can copy
 	and paste into Disciples Sacred Lands Imgs1 directory, and rename it to UNIT.DBI 
