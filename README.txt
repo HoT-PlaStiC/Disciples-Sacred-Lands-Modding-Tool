@@ -44,6 +44,7 @@ enter
 	(if you encode a new image it will automatically generate a new slot and code for it
 	(starting with GP001S00))
 
+
 	4., replace images:
 	python fd_portrait_codec_v2_10.py replace CFDW0048.png UNIT.DBI FD026S00 IMGGRAB.BIN
 
