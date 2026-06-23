@@ -11,7 +11,7 @@ This script will enable to
 	1., list unit portraits from UNIT.DBI
 	2., decode unit portraits from UNIT.DBI
 	3., encode images into UNIT.DBI
-
+	4., replace images in UNIT.DBI
 
 First use powershell (type powershell into directory and press enter)
 
