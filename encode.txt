@@ -1,1 +1,1 @@
-python fd_portrait_codec_v2_6.py encode CFDW0048.png UNIT.DBI FD026S00 IMGGRAB.BIN
+python fd_portrait_codec_v2_10.py encode CFDW0048.png UNIT.DBI IMGGRAB.BIN
