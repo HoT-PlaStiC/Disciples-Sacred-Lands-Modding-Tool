@@ -62,7 +62,7 @@ enter
 	(you can choose which original portrait you would like to replace (FD026S00 for example)
 
 
-	After you encode, the script will generate an UNIT_mod.DBI file, which you can copy
-	and paste into Disciples Sacred Lands Imgs1 directory, and rename it to UNIT.DBI 
+	After you encode, the script will generate an any_mod.DBI file, which you can copy
+	and paste into Disciples Sacred Lands Imgs1, Imgs2 or Interf directory, and rename it to any.DBI 
 	overwrite the original (make backup first!)
 
