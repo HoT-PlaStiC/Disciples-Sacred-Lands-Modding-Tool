@@ -1,7 +1,7 @@
 # Disciples-Sacred-Lands-Modding-Tool
 Decoding and Encoding in Disciples Sacred Lands (image and animation and sound)
 
-Current version: 1.43
+Current version: 1.44
 
 The .zip and .rar contains the same files, you can download and extract, whichever you like, then run the DisciplesModTool.exe!
 
