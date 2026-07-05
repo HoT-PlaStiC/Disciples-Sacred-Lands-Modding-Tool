@@ -8,7 +8,7 @@ The .zip and .rar contains the same files, you can download and extract, whichev
 With this tool its possible to decode, encode, replace images/animations/sounds in Disciples Sacred Lands. 
 (you can use .PNG or .BMP files for images, .GIF files for animations and .WAV files for sound!
 
-Please note that new item function is not tested in every file yet! (you can extend unit.dbi, midgard.dbi, all .ff files safely, but always make backups, if you are about to extend other files)
+Please note that new item function is not tested on every file yet! (you can extend unit.dbi, midgard.dbi, all .ff files safely, but always make backups, if you are about to extend other files)
 
 In the latest version .ff files are also extendable, so you can use the new item function!
 
