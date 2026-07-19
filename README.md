@@ -3,7 +3,7 @@ Decoding and Encoding in Disciples Sacred Lands (image and animation and sound)
 
 DBF Editor for Disciples Sacred Lands (second tab)
 
-Current version: 1.44
+Current version: 1.46
 
 The .zip and .rar contains the same files, you can download and extract, whichever you like, then run the DisciplesModTool.exe!
 
