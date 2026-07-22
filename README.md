@@ -1,6 +1,7 @@
 # Disciples-Sacred-Lands-Modding-Tool
------------------------------------------------------------------------------------
+
 Decoding and Encoding in Disciples Sacred Lands (image and animation and sound)
+-----------------------------------------------------------------------------------
 DBF Editor for Disciples Sacred Lands (second tab)
 -----------------------------------------------------------------------------------
 Current version: 1.57
