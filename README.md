@@ -3,7 +3,9 @@ Decoding and Encoding in Disciples Sacred Lands (image and animation and sound)
 
 DBF Editor for Disciples Sacred Lands (second tab)
 
-Current version: 1.54
+Current version: 1.56
+(fixed a bug, when deleting an automatic generated unit chain unit, and it deleted the original Tglobal records)
+(fixed a bug, that wouldnt let you to encode into Capital.dbi with unique dimensions)
 
 
 With this tool its possible to decode, encode, replace images/animations/sounds in Disciples Sacred Lands. 
