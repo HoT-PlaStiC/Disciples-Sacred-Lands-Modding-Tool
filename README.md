@@ -1,15 +1,16 @@
 # Disciples-Sacred-Lands-Modding-Tool
+-----------------------------------------------------------------------------------
 Decoding and Encoding in Disciples Sacred Lands (image and animation and sound)
 
 DBF Editor for Disciples Sacred Lands (second tab)
-
+-----------------------------------------------------------------------------------
 Current version: 1.57
-
-------------------------------------------------------------
+*********************************************
 New function while encoding large portrait into UNIT.DBI: Cropper (you can add the 55x67 portrait to you 115x67 portraits in the same time)
 (fixed a bug, when deleting an automatic generated unit chain unit, and it deleted the original Tglobal records)
 (fixed a bug, that wouldnt let you to encode into Capital.dbi with unique dimensions)
-------------------------------------------------------------
+*********************************************
+
 
 
 With this tool its possible to decode, encode, replace images/animations/sounds in Disciples Sacred Lands. 
