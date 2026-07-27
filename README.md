@@ -6,7 +6,8 @@ DBF Editor for Disciples Sacred Lands (second tab)
 -----------------------------------------------------------------------------------
 Current version: 2.0
 *********************************************
-New Tab: Building Editor
+New Tab: Building Editor:
+
 You can add new buildings with this new feature. (Add Linear upgrade for building, or add new Root building)
 You can adjust buildings position in Capital Screen Layout.
 
