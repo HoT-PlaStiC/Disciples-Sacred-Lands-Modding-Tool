@@ -20,7 +20,9 @@ Baseline/Diff/Load/Reset/Checkpoint now affects every file, not only .dbf files!
 Version 2.1 hotfix: Fixed baseline/diff/load/reset to match the correct files
 
 Fixed dithering while encoding into .ff files! 
+
 Decoding images now will generate 8bit Png files!
+
 Minor bugfixes in encoding.
 
 
@@ -40,9 +42,11 @@ With this tool its possible to browse and edit .dbf files for Disciples Sacred L
 It can show and generate evolution chains, you can save your mod, you can reset your mod, you can make a diff file to share your mod, you can load your mods with it too!
 (Read info first) When you first use .dbf editor you should make a baseline file so you can use delete, reset and see differences. 
 
+With this tool its possible to add new buildings in Disciples Sacred Lands!
+
 Please note that new item function is not tested on every file yet! (you can extend unit.dbi, midgard.dbi, all .ff files safely, but always make backups, if you are about to extend other files)
 
-In the latest version .ff files are also extendable, so you can use the new item function!
+
 
 
 https://youtu.be/4wNPHOt-4_E
