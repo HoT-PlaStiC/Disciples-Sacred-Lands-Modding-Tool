@@ -4,6 +4,9 @@ Decoding and Encoding in Disciples Sacred Lands (image and animation and sound)
 -----------------------------------------------------------------------------------
 DBF Editor for Disciples Sacred Lands (second tab)
 -----------------------------------------------------------------------------------
+Building Editor for Disciples Sacred Lands (third tab)
+-----------------------------------------------------------------------------------
+
 Current version: 2.1
 *********************************************
 New Tab: Building Editor:
