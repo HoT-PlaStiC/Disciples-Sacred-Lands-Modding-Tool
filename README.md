@@ -19,6 +19,9 @@ Fixed dithering while encoding into .ff files!
 Decoding images now will generate 8bit Png files!
 Minor bugfixes in encoding.
 
+
+Known bugs: Replace VH00, VE00, VD00, VU00 images wont show in the game. 
+
 *********************************************
 
 
