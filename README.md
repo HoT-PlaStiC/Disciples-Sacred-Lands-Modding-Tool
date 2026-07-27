@@ -15,6 +15,7 @@ Baseline/Diff/Load/Reset/Checkpoint now affects every file, not only .dbf files!
 (you can set a baseline, and after that delete/reset/save/load every modification, including graphic and animation and building mods.)
 
 Version 2.1 hotfix: Fixed baseline/diff/load/reset to match the correct files
+
 Fixed dithering while encoding into .ff files! 
 Decoding images now will generate 8bit Png files!
 Minor bugfixes in encoding.
