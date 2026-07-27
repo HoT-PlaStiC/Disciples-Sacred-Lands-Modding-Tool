@@ -4,13 +4,20 @@ Decoding and Encoding in Disciples Sacred Lands (image and animation and sound)
 -----------------------------------------------------------------------------------
 DBF Editor for Disciples Sacred Lands (second tab)
 -----------------------------------------------------------------------------------
-Current version: 1.57
+Current version: 2.0
 *********************************************
-New function while encoding large portrait into UNIT.DBI: Cropper (you can add the 55x67 portrait to your 115x67 portraits in the same time)
+New Tab: Building Editor
+You can add new buildings with this new feature. (Add Linear upgrade for building, or add new Root building)
+You can adjust buildings position in Capital Screen Layout.
 
-(fixed a bug, when deleting an automatic generated unit chain unit, and it deleted the original Tglobal records)
+Baseline/Diff/Load/Reset/Checkpoint now affects every file, not only .dbf files! 
+(you can set a baseline, and after that delete/reset/save/load every modification, including graphic and animation and building mods.)
 
-(fixed a bug, that wouldnt let you to encode into Capital.dbi with unique dimensions)
+
+Fixed dithering while encoding into .ff files! 
+Decoding images now will generate 8bit Png files!
+Minor bugfixes in encoding.
+
 *********************************************
 
 
