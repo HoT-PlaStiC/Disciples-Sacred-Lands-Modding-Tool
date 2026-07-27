@@ -23,7 +23,7 @@ Minor bugfixes in encoding.
 
 Known bugs:
 
-Replace VH00, VE00, VD00, VU00 images wont show in the game. 
+Replace VH00, VC00, VD00, VU00 images wont show in the game. 
 Wdb files not extendable yet.
 
 *********************************************
