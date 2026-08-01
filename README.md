@@ -7,8 +7,10 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 2.3
+Current version: 3.0
 *********************************************
+Replace Capital Screens are now possible! Major encoding upgrade and bugfix!
+
 New Tab: Building Editor:
 
 You can add new buildings with this new feature. (Add Linear upgrade for building, or add new Root building)
@@ -27,8 +29,6 @@ Minor bugfixes in encoding.
 
 
 Known bugs:
-
-Replace VH00, VC00, VD00, VU00 images wont show in the game. 
 
 Wdb files not extendable yet.
 
