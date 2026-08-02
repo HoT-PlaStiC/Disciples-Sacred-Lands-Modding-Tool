@@ -7,8 +7,14 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.0
+Current version: 3.1
 *********************************************
+Wdb files are now expendable
+
+Layout changes to avoid not showing everything in smaller screens.
+
+Grid on spell.ff and iso.ff 
+
 Replace Capital Screens are now possible! Major encoding upgrade and bugfix!
 
 New Tab: Building Editor:
@@ -30,7 +36,7 @@ Minor bugfixes in encoding.
 
 Known bugs:
 
-Wdb files not extendable yet.
+
 
 *********************************************
 
