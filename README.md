@@ -9,7 +9,7 @@ Building Editor for Disciples Sacred Lands (third tab)
 
 Current version: 3.1
 *********************************************
-Wdb files are now expendable
+Wdb files are now extendable
 
 Layout changes to avoid not showing everything in smaller screens.
 
