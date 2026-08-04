@@ -7,8 +7,10 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.9
+Current version: 3.10
 *********************************************
+
+Now you can decode images with full canvas, checkbox: full canvas
 
 Fixed canvas/bbox diff error while replacing trees/tiles.
 
