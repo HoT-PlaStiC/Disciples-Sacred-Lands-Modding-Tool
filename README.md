@@ -7,8 +7,10 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.10
+Current version: 3.11
 *********************************************
+
+New version wont cause crash after replacing images and leaving the tool open.
 
 Now you can decode images with full canvas, checkbox: full canvas
 
