@@ -7,7 +7,7 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.8
+Current version: 3.9
 *********************************************
 
 Fixed canvas/bbox diff error while replacing trees/tiles.
