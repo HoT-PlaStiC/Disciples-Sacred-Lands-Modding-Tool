@@ -11,6 +11,7 @@ Current version: 3.12
 *********************************************
 
 3.12 now can handle sounds
+
 Building editor now will auto-generate non existing structures to collerate with the new building structure.
 
 New version wont cause crash after replacing images and leaving the tool open.
