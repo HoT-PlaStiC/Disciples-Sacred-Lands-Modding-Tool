@@ -7,8 +7,11 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.11
+Current version: 3.12
 *********************************************
+
+3.12 now can handle sounds
+Building editor now will auto-generate non existing structures to collerate with the new building structure.
 
 New version wont cause crash after replacing images and leaving the tool open.
 
