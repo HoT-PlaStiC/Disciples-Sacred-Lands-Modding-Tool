@@ -7,7 +7,7 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.12
+Current version: 3.13
 *********************************************
 
 3.12 now can handle sounds
