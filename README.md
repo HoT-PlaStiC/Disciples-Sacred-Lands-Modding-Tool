@@ -7,8 +7,11 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.13
+Current version: 3.14
 *********************************************
+
+In 3.14 Building Editor will reuse deleted building records, as the max number of buildings is 99
+Minor bugfix: Sideshow buildings are now limited to level 4 not to cause crash.
 
 3.12 now can handle sounds
 
