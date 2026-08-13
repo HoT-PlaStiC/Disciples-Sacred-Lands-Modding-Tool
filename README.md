@@ -7,8 +7,11 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.15
+Current version: 3.16
 *********************************************
+
+3.16: Now buildings can be positioned with arrow keys and by typing numbers manually,layers can be set manually for more precise work,
+right click enables to jump to the building in dbf editor for faster workflow
 
 3.15: fixed various issues in baseline/checkpoint/load function
 
