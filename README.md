@@ -7,8 +7,12 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.17
+Current version: 3.18
 *********************************************
+
+3.18: when more units share the same description, and description are changed now it will only change for 1 unit (create a new description)
+instead of changing for all. 
+Capital.dbi-s records now can be replaced with different dimension pictures.
 
 3.17: fixed checkpoint/load (some files were not loaded like it intended), fine-tuned evolution generator, and building cost. 
 
