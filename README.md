@@ -10,7 +10,7 @@ Building Editor for Disciples Sacred Lands (third tab)
 Current version: 3.19
 *********************************************
 
-3.19: quality of life changes: right click now enable to jump to building editor or unit editor directly,
+3.19: quality of life changes: right click on building now enable to jump to building editor or unit editor directly,
 prev_id, enroll building/upgrade building fields now let you choose from existing ID-s (for easy and clear workflow)
 
 3.18: when more units share the same description, and description are changed now it will only change for 1 unit (create a new description)
