@@ -14,6 +14,7 @@ Current version: 3.20
 There was 1 pixel slippage on grandchild buildings chain, it is fixed.
 There was a rare case, where some buildings didnt let other buildings to be built, its now fixed. 
 Layout generator fine-tuned.
+Adding new buildings now requires an existing baseline.
 Asset Browser: Iso.dbi sprites and shadows now can be replaced with different dimension pictures.
 Baseline/Reset/Checkpoint fixes
 
