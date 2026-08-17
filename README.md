@@ -7,8 +7,10 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.20
+Current version: 3.21
 *********************************************
+
+3.21: Hotfix: Modifying layers caused issues while loading checkpoints, now its fixed.
 
 3.20: Capital layout will now refresh any time Layers has changed (editing is more comfortable).
 There was 1 pixel slippage on grandchild buildings chain, it is fixed.
