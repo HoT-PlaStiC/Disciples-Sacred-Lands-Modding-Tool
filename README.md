@@ -7,8 +7,15 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.19
+Current version: 3.20
 *********************************************
+
+3.20: Capital layout will now refresh any time Layers has changed (editing is more comfortable).
+There was 1 pixel slippage on grandchild buildings chain, it is fixed.
+There was a rare case, where some buildings didnt let other buildings to be built, its now fixed. 
+Layout generator fine-tuned.
+Asset Browser: Iso.dbi sprites and shadows now can be replaced with different dimension pictures.
+Baseline/Reset/Checkpoint fixes
 
 3.19: quality of life changes: right click on building now enable to jump to building editor or unit editor directly,
 prev_id, enroll building/upgrade building fields now let you choose from existing ID-s (for easy and clear workflow)
