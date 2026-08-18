@@ -93,9 +93,6 @@ It can show and generate evolution chains, you can save your mod, you can reset 
 
 With this tool its possible to add new buildings in Disciples Sacred Lands!
 
-Please note that new item function is not tested on every file yet! (you can extend unit.dbi, midgard.dbi, all .ff files safely, but always make backups, if you are about to extend other files)
-
-
 
 https://youtu.be/Tt8QdVC5rUE
 
