@@ -7,8 +7,12 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.21
+Current version: 3.22
 *********************************************
+
+
+3.22: Global Settings now include Scenario Settings (Sinfo.dbf), it lets you change max levels in sagas. GAI.DBF description corrected.
+From now on everything is baseline dependant on Dbf Editor for safe work.
 
 3.21: Hotfix: Modifying layers caused issues while loading checkpoints, now its fixed.
 
