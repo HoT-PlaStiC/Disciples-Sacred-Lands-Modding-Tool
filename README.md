@@ -7,8 +7,14 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.22
+Current version: 3.23
 *********************************************
+
+3.23: Made some more building structure available for structure generator, Capital Screen Layers no longer can have negative value,
+Layer field now clamps to the closest available value instead of error box, when written manually,
+Diplomat title changed to Guildmaster in DBF Editor (as it is in game), Generate Remaining Chain Button removed, as it no longer makes sense,
+Encoding in UNIT.DBI will no longer auto-generate the same number for small and large portraits to avoid pairing with not proper images.
+Baseline/Reset/Load popup window enlarged, Checkpoint/Diff now should manage Layers properly.
 
 
 3.22: Global Settings now include Scenario Settings (Sinfo.dbf), it lets you change max levels in sagas. GAI.DBF description corrected.
