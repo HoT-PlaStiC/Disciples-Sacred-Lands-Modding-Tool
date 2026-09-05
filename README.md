@@ -7,8 +7,11 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.23
+Current version: 3.24
 *********************************************
+
+3.24: DBF Editor changes: fixed New wizard in Items/Spells/Spell Research categories.
+
 
 3.23: Made some more building structure available for structure generator, Capital Screen Layers no longer can have negative value,
 Layer field now clamps to the closest available value instead of error box, when written manually,
