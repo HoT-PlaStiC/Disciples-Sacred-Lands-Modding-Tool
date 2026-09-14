@@ -7,8 +7,11 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.26
+Current version: 3.27
 *********************************************
+
+
+3.27: K-treshold discovery in .dbi format, now all tiles/trees/etc. should be safely replacable.
 
 
 3.26: Fixed 3 pixel gap filling with black instead of transparent while encoding.
