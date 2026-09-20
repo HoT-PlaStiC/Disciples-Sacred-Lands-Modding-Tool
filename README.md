@@ -7,8 +7,12 @@ DBF Editor for Disciples Sacred Lands (second tab)
 Building Editor for Disciples Sacred Lands (third tab)
 -----------------------------------------------------------------------------------
 
-Current version: 3.28
+Current version: 3.31
 *********************************************
+
+
+3.31: Capital sprites are now size-flexible (so can be replaced with different dimension pictures)
+(Note: There will be some releases in the future with the same issue, as some records should remain size-strict, while others should be flexible)
 
 
 3.28: Encoding into Unit.dbi will only let names to be used that game accepts, Noble changed to Thief in DBF Editor (as it is in game),
