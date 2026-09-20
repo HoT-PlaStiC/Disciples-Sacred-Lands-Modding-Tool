@@ -11,7 +11,7 @@ Current version: 3.28
 *********************************************
 
 
-3.28: Encoding into Unit.dbi will only let usable names, Noble changed to Thief in DBF Editor (as it is in game),
+3.28: Encoding into Unit.dbi will only let names to be used that game accepts, Noble changed to Thief in DBF Editor (as it is in game),
 lists of new items/attacks etc. will refresh in real-time, Jumping to Building from Structure Layout now will jump 
 to the correct building even after building was searched in Global Settings before.
 
